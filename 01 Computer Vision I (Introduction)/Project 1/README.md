@@ -54,6 +54,8 @@ you need to perform the following steps:
 4. Press `Esc` when finished.
 
 A sample output is shown below:
+
+
 ![c1_project1_feature_2_chroma_keying](https://github.com/Kunaldawn7/Projects-OpenCV-Courses/assets/47062478/b4b4e036-ba58-4960-a7d9-9ed7b9e84744)
 
 
