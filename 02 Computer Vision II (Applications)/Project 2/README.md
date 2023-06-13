@@ -26,6 +26,10 @@ Finally, we comparison through inferences across a few video samples:
 
 
 
+https://github.com/Kunaldawn7/Projects-OpenCV-Courses/assets/47062478/c9c70571-2fec-4821-97ed-2378119c8c1c
+
+
+
 The video inference samples can be downloaded from [here](https://www.dropbox.com/s/o2nupjhbmym2q7n/yolo_v3_v4_video_inferences.zip?dl=1).
 
 ---
