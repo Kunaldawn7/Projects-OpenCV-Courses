@@ -66,8 +66,10 @@ The final COCO primary metric (**mAP@0.5:0.95**) was **`0.553`**, while the **mA
 The tensorboard logs can be found [here](https://tensorboard.dev/experiment/51u0JVyzRPSQykdDZLjphw/).
 
 
-
 ### Sample Video Inference
+
+
+https://github.com/Kunaldawn7/Projects-OpenCV-Courses/assets/47062478/de385e33-e02b-4ac3-9bce-6c1d64264d56
 
 ---
 
