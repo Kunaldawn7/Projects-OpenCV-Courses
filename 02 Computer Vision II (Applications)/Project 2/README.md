@@ -10,11 +10,9 @@ After training both the models, the evaluation metric (**mAP @ 0.5**) are approx
 
 The metrics plots for both YOLOv3 and YOLOv4 are shown below:
 
-```
 | **YOLOv3** | **YOLOv4** |
 | ---------|----------|
 | ![](./YOLOv3/map_yolov3.png?raw=true)    | ![](./YOLOv4/map_yolov4.png?raw=true) |
-```
 
 
 
