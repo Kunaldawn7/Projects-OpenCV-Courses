@@ -20,6 +20,8 @@ Finally, we comparison through inferences across a few video samples:
 
 #### Video 1:
 
+![](./visuals/yolo_v3_v4_video_1.gif?raw=true)
+
 
 
 #### Video 2:
