@@ -15,9 +15,12 @@ One can start the application by running:
 
 `python c1_project2_detect_and_track.py`
 
+
 A sample video output is shown below.
 
-<img src = "https://www.dropbox.com/s/aeivro289rinkat/c1_project2_detection_and_tracking.gif?dl=1">
+
+![c1_project2_detection_and_tracking](https://github.com/Kunaldawn7/Projects-OpenCV-Courses/assets/47062478/9590c14f-e931-4e31-9552-0ee66d35500a)
+
 
 ---
 
