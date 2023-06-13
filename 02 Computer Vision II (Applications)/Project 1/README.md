@@ -39,8 +39,7 @@ Finally, alpha blending is applied to the glasses and the image.
 
 A sample output is shown below:
 
-```
-![](./visuals/c2_project1_virtual_makeup.png?raw=true) 
-```
+![c2_project1_virtual_makeup](https://github.com/Kunaldawn7/Projects-OpenCV-Courses/assets/47062478/de0639a1-67dd-4db8-87fe-50acd0055cc5)
+
 
 ---
