@@ -22,8 +22,7 @@ You can simply run the following command:
 The output below shows the results:
 
 
-
-<img src = "https://www.dropbox.com/s/fsnxptu4xjoy29q/c1_project1_feature_1_blemish_removal.gif?dl=1">
+![c1_project1_feature_1_blemish_removal](https://github.com/Kunaldawn7/Projects-OpenCV-Courses/assets/47062478/3d470cd8-de9c-469e-a30b-bd32014e479d)
 
 ---
 
@@ -56,7 +55,9 @@ you need to perform the following steps:
 
 A sample output is shown below:
 
-<img src = "https://www.dropbox.com/s/6aeii55s75awwhr/c1_project1_feature_2_chroma_keying.gif?dl=1">
+
+![c1_project1_feature_2_chroma_keying](https://github.com/Kunaldawn7/Projects-OpenCV-Courses/assets/47062478/b4b4e036-ba58-4960-a7d9-9ed7b9e84744)
+
 
 ---
 
